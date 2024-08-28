@@ -1,0 +1,19 @@
+{
+    "name": "dtic/groupeun",
+    "description": "Module pour la gestion des visites prenatales, programme visite et periode",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "DTIC\\GroupeUn\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Christ-vielecodeur",
+            "email": "doreakibaka@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
