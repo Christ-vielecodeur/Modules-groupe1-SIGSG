@@ -30,7 +30,7 @@ return new class extends Migration
             $table->double("seins")->nullable();
             $table->string("hu")->nullable();
             $table->string("palper")->nullable();
-            $table->string("bdc_foetal");
+            $table->string("bdc_foetal")->nullable();
             $table->string("mouvements_foetaux")->nullable();
             $table->string("speculum")->nullable();
             $table->string("tv")->nullable();
